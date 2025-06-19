@@ -12,6 +12,7 @@ fake_review_dataset_GPT4o.xlsx
 
 Machine Learning
 https://github.com/SIDEYS/DeceptiveReviewsLLMs/blob/main/basicmlmodelsdecepopspam_newdataset.py
+https://github.com/SIDEYS/DeceptiveReviewsLLMs/blob/main/basicmlmodelsdecepopspam_olddataset.py
 
 
 Deep Learning
