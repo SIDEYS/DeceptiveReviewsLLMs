@@ -25,6 +25,7 @@ Large Language Models
 https://github.com/SIDEYS/DeceptiveReviewsLLMs/blob/main/old_fake_reviews%2Bdetection_using_bert.py
 https://github.com/SIDEYS/DeceptiveReviewsLLMs/blob/main/fake_reviews%2Bdetection_using_bert_newdata.py
 https://github.com/SIDEYS/DeceptiveReviewsLLMs/blob/main/deceptiveopspam_gpt__amtdataset.py
+https://github.com/SIDEYS/DeceptiveReviewsLLMs/blob/main/fake_reviews_detection_using_llama.py
 
 LLMs based experimented models are listed by the similar names( old_fake_reviews%2Bdetection_using_bert.py, fake_reviews%2Bdetection_using_bert_newdata.py) for different epochs, datasets and model.
 
