@@ -29,5 +29,5 @@ https://github.com/SIDEYS/DeceptiveReviewsLLMs/blob/main/fake_reviews_detection_
 
 LLMs based experimented models are listed by the similar names( old_fake_reviews%2Bdetection_using_bert.py, fake_reviews%2Bdetection_using_bert_newdata.py) for different epochs, datasets and model.
 
-For Queries, mail to: ui21cs59@iiitsurat.ac.in 
+For Queries, mail to: sbhangale@umass.edu 
 
